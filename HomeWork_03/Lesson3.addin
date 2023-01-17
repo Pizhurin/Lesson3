@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>ITMO_Lesson3_1</Name>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2022\ITMO\HomeWork_03.dll</Assembly>
+		<ClientId>C3D47B4F-C112-4256-B935-C9074D00DF37</ClientId>
+		<FullClassName>HomeWork_03.Lesson3_1</FullClassName>
+		<VendorId>PiN</VendorId>
+		<VendorDescription>pizhurin@yahoo.com</VendorDescription>
+		<Text>Задание3.1_Объем выбранных стен</Text>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>ITMO_Lesson3_2</Name>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2022\ITMO\HomeWork_03.dll</Assembly>
+		<ClientId>ECDFD39D-2E1E-4555-97EA-830BA3F4B066</ClientId>
+		<FullClassName>HomeWork_03.Lesson3_2</FullClassName>
+		<VendorId>PiN</VendorId>
+		<VendorDescription>pizhurin@yahoo.com</VendorDescription>
+		<Text>Задание3.2_Общая длина труб</Text>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>ITMO_Lesson3_3</Name>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2022\ITMO\HomeWork_03.dll</Assembly>
+		<ClientId>9EF06D93-A262-4DE3-A6B8-06743CAE0C25</ClientId>
+		<FullClassName>HomeWork_03.Lesson3_3</FullClassName>
+		<VendorId>PiN</VendorId>
+		<VendorDescription>pizhurin@yahoo.com</VendorDescription>
+		<Text>Задание3.3_Запись параметра С запасом</Text>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>ITMO_Lesson3_4</Name>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2022\ITMO\HomeWork_03.dll</Assembly>
+		<ClientId>822C4487-D44F-4B7E-B8CE-A9E3619665E2</ClientId>
+		<FullClassName>HomeWork_03.Lesson3_4</FullClassName>
+		<VendorId>PiN</VendorId>
+		<VendorDescription>pizhurin@yahoo.com</VendorDescription>
+		<Text>Задание3.4_Запись параметра Наименование</Text>
+	</AddIn>
+</RevitAddIns>
